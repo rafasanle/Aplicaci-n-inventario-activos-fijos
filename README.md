@@ -1,0 +1,1 @@
+# Aplicaci-n-inventario-activos-fijos
